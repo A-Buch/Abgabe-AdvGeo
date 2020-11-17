@@ -1,5 +1,5 @@
 ## test if ignored
 app.py
+Makefile.txt
 
 ## from utils folder to ignore
-/utils/Makefile.txt
