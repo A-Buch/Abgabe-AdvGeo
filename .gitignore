@@ -1,5 +1,7 @@
-## test if ignored
-app.py
+## ignore following files and directories
+
+app.py   # file from dash-sapmple: dash-svm
 Makefile.txt
-
-
+utils/utils_DashUpdates.py
+utils/__pycache__/
+Readme_files/
