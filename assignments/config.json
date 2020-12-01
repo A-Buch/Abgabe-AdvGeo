@@ -1,0 +1,27 @@
+{
+  "output_dir": "./output",
+  "sites": {
+    "deltadusaloum": {
+      "bbox": [
+        -16.811,
+        13.627,
+        -16.356,
+        14.14
+      ],
+      "time": "2019-06-01/2020-06-01",
+      "cloud_cover": 3,
+      "name": "DeltaDuSaloum"
+    },
+    "neusiedlersee": {
+      "bbox": [
+        16.516,
+        47.595,
+        17.018,
+        47.974
+      ],
+      "time": "2019-06-01/2020-06-01",
+      "cloud_cover": 10,
+      "name": "NeusiedlerSee"
+    }
+  }
+}
