@@ -1,7 +1,15 @@
 ## ignore following files and directories
 
+<<<<<<< HEAD
 app.py
 Makefile.txt
 utils/utils_DashUpdates.py
 */__pycache__/
 Readme_files/
+=======
+app.py   
+Makefile.txt
+utils/utils_DashUpdates.py
+*/__pycache__/*
+Readme_files/
+>>>>>>> 72fcaa5b37077f287563161faeb49d5174dbea35
