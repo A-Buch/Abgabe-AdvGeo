@@ -1,7 +1,7 @@
 ## ignore following files and directories
 
-app.py   # file from dash-sapmple: dash-svm
+app.py   
 Makefile.txt
 utils/utils_DashUpdates.py
-utils/__pycache__/
+*/__pycache__/
 Readme_files/
