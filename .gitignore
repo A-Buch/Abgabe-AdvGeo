@@ -3,5 +3,5 @@
 app.py   
 Makefile.txt
 utils/utils_DashUpdates.py
-*/__pycache__/
+*/__pycache__*
 Readme_files/
